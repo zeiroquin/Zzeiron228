@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Game Developer
 
-<!--
-**Zzeiron228/Zzeiron228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building interactive gameplay mechanics in **Unity (C#)** and creating **Low-Poly 3D models & animations** in Blender. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools:
+* **Engine:** Unity
+* **Language:** C# (OOP, Basic Syntax, Unity API)
+* **3D Design:** Blender (Modeling, Rigging, Animation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 What you can find in my repositories:
+* Ready-to-use Unity C# scripts (Interactions, UI, triggers)
+* Game prototypes and mechanic showcases
+* Well-commented and clean code structure
+
+*Feel free to check my repositories or contact me for freelance tasks!*
